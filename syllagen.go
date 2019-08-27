@@ -51,16 +51,16 @@ func (s *sylla) syllagen() {
 }
 
 func main() {
-	/*var s sylla
+	var s sylla
 	s.syllagen()
 	fmt.Println(string(s.mem))
 	s.syllagen()
-	fmt.Println(string(s.mem))*/
+	fmt.Println(string(s.mem))
 	//x := []rune("ใไโ")
 	//fmt.Println(x)
-	for i := 1; i < 4; i++ {
-		fmt.Print(string(ranTh()))
-	}
+	//for i := 1; i < 4; i++ {
+	//	fmt.Print(string(ranTh()))
+	//}
 
 }
 
